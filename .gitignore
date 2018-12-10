@@ -9,6 +9,7 @@
 
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
+.ipynb_checkpoints
 .fseventsd
 .Spotlight-V100
 .TemporaryItems
